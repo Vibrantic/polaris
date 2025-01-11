@@ -40,8 +40,8 @@ titles.
     <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Vibrantic/polaris"></td>
   </tr>
   <tr>
-    <td><img alt="Static Badge" src="https://img.shields.io/badge/version-0.0-brightgreen"></td>
-    <td><img alt="Static Badge" src="https://img.shields.io/badge/language-lua-blue"></td>
+    <td><img alt="Static Badge" src="https://img.shields.io/badge/version-4.3-brightgreen"></td>
+    <td><img alt="Static Badge" src="https://img.shields.io/badge/language-C++-blue"></td>
     <td colspan="2"><img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/w/Vibrantic/polaris"></td>
   </tr>
   <tr>
