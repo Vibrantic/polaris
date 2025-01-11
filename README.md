@@ -20,7 +20,7 @@ Web-based platforms and [consoles](https://docs.godotengine.org/en/latest/tutori
 
 Polaris is free and open source under the very permissive [MIT license](https://polarisengine.org/license).
 No strings attached, no royalties, nothing. The users' games are theirs, down
-to the last line of engine code. Godot's development is fully independent and
+to the last line of engine code. Polaris development is fully independent and
 community-driven, empowering users to help shape their engine to match their
 expectations.
 
@@ -30,7 +30,9 @@ Godot had been developed by [Juan Linietsky](https://github.com/reduz) and
 for several years as an in-house engine, used to publish several work-for-hire
 titles.
 
-![Screenshot of a 3D scene in the Godot Engine editor](https://raw.githubusercontent.com/godotengine/godot-design/master/screenshots/editor_tps_demo_1920x1080.jpg)
+![Screenshot of a 3D scene in the Godot Engine editor]()
+
+## Statistics
 
 ## Getting the engine
 
