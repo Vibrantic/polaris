@@ -1,16 +1,16 @@
-# Godot Engine
+# Polaris Game Engine
 
 <p align="center">
-  <a href="https://godotengine.org">
-    <img src="logo_outlined.svg" width="400" alt="Godot Engine logo">
+  <a href="https://polarisengine.org">
+    <img src="logo_outlined.svg" width="400" alt="Polaris Engine logo">
   </a>
 </p>
 
 ## 2D and 3D cross-platform game engine
 
-**[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
-game engine to create 2D and 3D games from a unified interface.** It provides a
-comprehensive set of [common tools](https://godotengine.org/features), so that
+**[Polaris Engine](https://polarisengine.org) is a fork of [Godot Engine](https://godotengine.org)
+the feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface.
+** It provides a comprehensive set of [common tools](https://godotengine.org/features), so that
 users can focus on making games without having to reinvent the wheel. Games can
 be exported with one click to a number of platforms, including the major desktop
 platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as
@@ -18,12 +18,11 @@ Web-based platforms and [consoles](https://docs.godotengine.org/en/latest/tutori
 
 ## Free, open source and community-driven
 
-Godot is completely free and open source under the very permissive [MIT license](https://godotengine.org/license).
+Polaris is completely free and open source under the very permissive [MIT license](https://polarisengine.org/license).
 No strings attached, no royalties, nothing. The users' games are theirs, down
 to the last line of engine code. Godot's development is fully independent and
 community-driven, empowering users to help shape their engine to match their
-expectations. It is supported by the [Godot Foundation](https://godot.foundation/)
-not-for-profit.
+expectations.
 
 Before being open sourced in [February 2014](https://github.com/godotengine/godot/commit/0b806ee0fc9097fa7bda7ac0109191c9c5e0a1ac),
 Godot had been developed by [Juan Linietsky](https://github.com/reduz) and
@@ -37,8 +36,8 @@ titles.
 
 ### Binary downloads
 
-Official binaries for the Godot editor and the export templates can be found
-[on the Godot website](https://godotengine.org/download).
+Official binaries for the Polaris editor and the export templates can be found
+[on the Polaris website](https://polarisengine.org/download).
 
 ### Compiling from source
 
@@ -47,8 +46,10 @@ for compilation instructions for every supported platform.
 
 ## Community and contributing
 
-Godot is not only an engine but an ever-growing community of users and engine
-developers. The main community channels are listed [on the homepage](https://godotengine.org/community).
+Polaris is currently beeing developed and reworked by one person. 
+If you want to help be sure to contibute to othe 
+
+The main community channels for GOdot are listed [on the homepage](https://godotengine.org/community).
 
 The best way to get in touch with the core engine developers is to join the
 [Godot Contributors Chat](https://chat.godotengine.org).
@@ -63,9 +64,6 @@ It is maintained by the Godot community in its own [GitHub repository](https://g
 
 The [class reference](https://docs.godotengine.org/en/latest/classes/)
 is also accessible from the Godot editor.
-
-We also maintain official demos in their own [GitHub repository](https://github.com/godotengine/godot-demo-projects)
-as well as a list of [awesome Godot community resources](https://github.com/godotengine/awesome-godot).
 
 There are also a number of other
 [learning resources](https://docs.godotengine.org/en/latest/community/tutorials.html)
