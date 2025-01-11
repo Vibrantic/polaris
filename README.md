@@ -32,7 +32,26 @@ titles.
 
 ![Screenshot of a 3D scene in the Godot Engine editor]()
 
-## Statistics
+## Project Statistics
+<table class="no-border" align="center">
+  <tr>
+    <td><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Vibrantic/polaris/total"></td>
+    <td><img alt="GitHub issues" src="https://img.shields.io/github/issues/Vibrantic/polaris"></td>
+    <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Vibrantic/polaris"></td>
+  </tr>
+  <tr>
+    <td><img alt="Static Badge" src="https://img.shields.io/badge/version-0.0-brightgreen"></td>
+    <td><img alt="Static Badge" src="https://img.shields.io/badge/language-lua-blue"></td>
+    <td colspan="2"><img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/w/Vibrantic/polaris"></td>
+  </tr>
+  <tr>
+    <td><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Vibrantic/polaris/main"></td>
+    <td><img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/Vibrantic/polaris">
+    <td colspan="2"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Vibrantic/polaris">
+</td>
+</td>
+  </tr>
+</table>
 
 ## Getting the engine
 
