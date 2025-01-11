@@ -8,8 +8,8 @@
 
 ## 2D and 3D cross-platform game engine
 
-** [Polaris Engine](https://polarisengine.org) is a fork of [Godot Engine](https://godotengine.org)
-the feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. **
+**[Polaris Engine](https://polarisengine.org) is a fork of [Godot Engine](https://godotengine.org)
+the feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface.**
 
 It provides a comprehensive set of [common tools](https://godotengine.org/features), so 
 users can focus on making games without reinventing the wheel. Games can
